@@ -26,7 +26,6 @@ namespace hanimyhoney.api
 		public void ConfigureServices(IServiceCollection services)
 		{
 			// Graph DB Connection Information
-			// var graphDbUrl = "https://localhost:7473/db/data";
 			// var graphDbUrl = Configuration.GetConnectionString("GraphUrlForDocker");
 			var graphDbUrl = Configuration.GetConnectionString("GraphUrl");
 			var graphDbUser = Configuration.GetConnectionString("GraphUser");
