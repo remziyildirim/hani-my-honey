@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.api/hanimyhoney.api.csproj": {}
+    "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.api/hanimyhoney.api.csproj": {}
   },
   "projects": {
-    "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.api/hanimyhoney.api.csproj": {
+    "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.api/hanimyhoney.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.api/hanimyhoney.api.csproj",
+        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.api/hanimyhoney.api.csproj",
         "projectName": "hanimyhoney.api",
-        "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.api/hanimyhoney.api.csproj",
+        "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.api/hanimyhoney.api.csproj",
         "packagesPath": "/Users/turkishtechnic/.nuget/packages/",
-        "outputPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.api/obj/",
+        "outputPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.api/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -28,11 +28,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.repository/hanimyhoney.repository.csproj": {
-                "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.repository/hanimyhoney.repository.csproj"
+              "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.repository/hanimyhoney.repository.csproj": {
+                "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.repository/hanimyhoney.repository.csproj"
               },
-              "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.service/hanimyhoney.service.csproj": {
-                "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.service/hanimyhoney.service.csproj"
+              "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.service/hanimyhoney.service.csproj": {
+                "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.service/hanimyhoney.service.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj": {
+    "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj",
+        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj",
         "projectName": "hanimyhoney.domain",
-        "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj",
+        "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj",
         "packagesPath": "/Users/turkishtechnic/.nuget/packages/",
-        "outputPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/obj/",
+        "outputPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -140,14 +140,14 @@
         }
       }
     },
-    "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.repository/hanimyhoney.repository.csproj": {
+    "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.repository/hanimyhoney.repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.repository/hanimyhoney.repository.csproj",
+        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.repository/hanimyhoney.repository.csproj",
         "projectName": "hanimyhoney.repository",
-        "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.repository/hanimyhoney.repository.csproj",
+        "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.repository/hanimyhoney.repository.csproj",
         "packagesPath": "/Users/turkishtechnic/.nuget/packages/",
-        "outputPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.repository/obj/",
+        "outputPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.repository/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -164,8 +164,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj": {
-                "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj"
+              "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj": {
+                "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj"
               }
             }
           }
@@ -207,14 +207,14 @@
         }
       }
     },
-    "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.service/hanimyhoney.service.csproj": {
+    "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.service/hanimyhoney.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.service/hanimyhoney.service.csproj",
+        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.service/hanimyhoney.service.csproj",
         "projectName": "hanimyhoney.service",
-        "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.service/hanimyhoney.service.csproj",
+        "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.service/hanimyhoney.service.csproj",
         "packagesPath": "/Users/turkishtechnic/.nuget/packages/",
-        "outputPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.service/obj/",
+        "outputPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.service/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -231,8 +231,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj": {
-                "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj"
+              "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj": {
+                "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj"
               }
             }
           }

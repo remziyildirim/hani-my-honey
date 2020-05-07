@@ -6632,11 +6632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.api/hanimyhoney.api.csproj",
+      "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.api/hanimyhoney.api.csproj",
       "projectName": "hanimyhoney.api",
-      "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.api/hanimyhoney.api.csproj",
+      "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.api/hanimyhoney.api.csproj",
       "packagesPath": "/Users/turkishtechnic/.nuget/packages/",
-      "outputPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.api/obj/",
+      "outputPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.api/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -6653,11 +6653,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.repository/hanimyhoney.repository.csproj": {
-              "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.repository/hanimyhoney.repository.csproj"
+            "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.repository/hanimyhoney.repository.csproj": {
+              "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.repository/hanimyhoney.repository.csproj"
             },
-            "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.service/hanimyhoney.service.csproj": {
-              "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.service/hanimyhoney.service.csproj"
+            "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.service/hanimyhoney.service.csproj": {
+              "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.service/hanimyhoney.service.csproj"
             }
           }
         }

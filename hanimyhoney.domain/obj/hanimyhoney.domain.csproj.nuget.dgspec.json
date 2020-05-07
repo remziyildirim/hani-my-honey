@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj": {}
+    "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj": {}
   },
   "projects": {
-    "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj": {
+    "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj",
+        "projectUniqueName": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj",
         "projectName": "hanimyhoney.domain",
-        "projectPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/hanimyhoney.domain.csproj",
+        "projectPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/hanimyhoney.domain.csproj",
         "packagesPath": "/Users/turkishtechnic/.nuget/packages/",
-        "outputPath": "/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/obj/",
+        "outputPath": "/Users/turkishtechnic/Desktop/Mine/hani-my-honey/hanimyhoney.domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+	"Name": "remziyildirim/hani-my-honey:latest",
+	"Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "80"
+    }
+  ]
+}
