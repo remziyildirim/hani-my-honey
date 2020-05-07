@@ -1,8 +1,0 @@
-/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/bin/Debug/netcoreapp3.1/hanimyhoney.domain.deps.json
-/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/bin/Debug/netcoreapp3.1/hanimyhoney.domain.dll
-/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/bin/Debug/netcoreapp3.1/hanimyhoney.domain.pdb
-/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/obj/Debug/netcoreapp3.1/hanimyhoney.domain.csprojAssemblyReference.cache
-/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/obj/Debug/netcoreapp3.1/hanimyhoney.domain.AssemblyInfoInputs.cache
-/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/obj/Debug/netcoreapp3.1/hanimyhoney.domain.AssemblyInfo.cs
-/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/obj/Debug/netcoreapp3.1/hanimyhoney.domain.dll
-/Users/turkishtechnic/Desktop/Mine/core/hanimyhoney.domain/obj/Debug/netcoreapp3.1/hanimyhoney.domain.pdb
