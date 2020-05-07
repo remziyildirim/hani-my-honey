@@ -1,3 +1,4 @@
-hanimyhoney.api/bin/
-hanimyhoney.api/obj/
+**/bin/
+**/obj/
+*.vs/
 hanimyhoney.api/Logs/
